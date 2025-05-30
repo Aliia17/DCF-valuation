@@ -48,6 +48,7 @@ To assess the **intrinsic value** of a company by applying DCF methodology, comp
 
 ## Files
 - `DCF_Valuation.xlsx` – Complete valuation model with FCF forecast, WACC, terminal value, and sensitivity tables
+- [Download the Excel model](https://github.com/Aliia17/DCF-valuation/blob/main/DCF_Valuation.xlsx?raw=true)
 ---
 
 ## Tools Used
