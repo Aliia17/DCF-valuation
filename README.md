@@ -1,5 +1,4 @@
 # DCF-valuation
-# DCF Valuation Project
 
 This project contains a comprehensive **Discounted Cash Flow (DCF) valuation** analysis of a publicly listed company ("Fastenal"), completed as part of my **Corporate Finance coursework** at Nazarbayev University.
 
